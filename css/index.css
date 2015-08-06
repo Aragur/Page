@@ -8,7 +8,7 @@ body {
 
 header {
 	height: 100vh;
-	background-image: url('/i/start.jpg');
+	background-image: url('i/start.jpg');
 	background-size: cover;
 	background-position: center;
 	/*background-attachment: fixed;*/
@@ -30,7 +30,7 @@ header {
 }
 #pre-header{
 	padding-top: 50px;
-	background-image: url('/i/pre-header.jpg');
+	background-image: url('i/pre-header.jpg');
 	background-size: cover;
 	background-position: top;
 	/*padding-bottom: 50px;
@@ -46,7 +46,7 @@ header {
 
 #newsletter {
 	padding-top: 50px;
-	background-image: url('/i/newsletter.jpg');
+	background-image: url('i/newsletter.jpg');
 	background-size: cover;
 	background-position: top;
 	/*padding-bottom: 50px;
