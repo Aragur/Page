@@ -1,1 +1,4 @@
+# Aptana Studio Project Settings
 .project
+# Git Cache
+.git/
