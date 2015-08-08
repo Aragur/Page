@@ -1,4 +1,2 @@
 # Page
-A Template I will using for my Websites test
-
-test
+A Template I will using for my Websites
